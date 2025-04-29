@@ -1,3 +1,4 @@
 read items from 1 to n
 add price of items
 print bill 
+if price grater than 500 give discount else no  discount
